@@ -11,6 +11,7 @@ This is part of a set of pages on statistics. https://github.com/cmcntsh/stats20
 * Field chapter 20.1 - 20.8
 * Using Jamovi: Logistic Regression available at: https://tysonbarrett.com//jekyll/update/2018/03/29/jamovi_logistic/
 * Applied Statistics with R chapter 17 (optional) available at: https://daviddalpiaz.github.io/appliedstats/logistic-regression.html
+* Rosetta Stats by multiple authors (optional) available at: https://sci-ops.gitlab.io/rosetta-stats/log-regression.html
 
 ## Statistical Concept Videos
 
